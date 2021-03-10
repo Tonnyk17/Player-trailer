@@ -9,9 +9,11 @@ import Player from "../containers/Player";
 
 const App = () => {
     return(
-        <div>
-            <MainPage/>
-        </div>
+        <>
+            <Layout>
+                <MainPage/>
+            </Layout>
+        </>
     );
 };
     
