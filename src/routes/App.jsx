@@ -14,6 +14,7 @@ const App = () => {
                     <Layout>
                         <Switch>
                            <Route exact path="/" component={MainPage}/>
+                           <Route exact path="/player" component={Player}/>
                         </Switch>
                     </Layout>
             </BrowserRouter>
