@@ -10,14 +10,9 @@ import Player from "../containers/Player";
 const App = () => {
     return(
         <>
-            <BrowserRouter>
-        
-                        <Switch>
-                           <Route exact path="/" component={MainPage}/>
-                           <Route exact path="/player" component={Player}/>
-                        </Switch>
-                  
-            </BrowserRouter>
+            <Layout>
+                <MainPage/>    
+            </Layout>  
         </>
     );
 };
