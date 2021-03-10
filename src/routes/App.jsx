@@ -11,12 +11,12 @@ const App = () => {
     return(
         <>
             <BrowserRouter>
-                    <Layout>
+        
                         <Switch>
                            <Route exact path="/" component={MainPage}/>
                            <Route exact path="/player" component={Player}/>
                         </Switch>
-                    </Layout>
+                  
             </BrowserRouter>
         </>
     );
