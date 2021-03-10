@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Player-trailer/static/css/main.fc799f02.chunk.css",
-    "main.js": "/Player-trailer/static/js/main.0c089f9d.chunk.js",
-    "main.js.map": "/Player-trailer/static/js/main.0c089f9d.chunk.js.map",
+    "main.js": "/Player-trailer/static/js/main.ba088e28.chunk.js",
+    "main.js.map": "/Player-trailer/static/js/main.ba088e28.chunk.js.map",
     "runtime-main.js": "/Player-trailer/static/js/runtime-main.74c61b87.js",
     "runtime-main.js.map": "/Player-trailer/static/js/runtime-main.74c61b87.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/Player-trailer/static/css/2.4c97ca4f.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.463b844a.chunk.js",
     "static/css/main.fc799f02.chunk.css",
-    "static/js/main.0c089f9d.chunk.js"
+    "static/js/main.ba088e28.chunk.js"
   ]
 }
