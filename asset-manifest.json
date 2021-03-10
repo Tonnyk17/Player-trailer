@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Player-trailer/static/css/main.fc799f02.chunk.css",
+    "main.js": "/Player-trailer/static/js/main.9c6ce1e1.chunk.js",
+    "main.js.map": "/Player-trailer/static/js/main.9c6ce1e1.chunk.js.map",
+    "runtime-main.js": "/Player-trailer/static/js/runtime-main.74c61b87.js",
+    "runtime-main.js.map": "/Player-trailer/static/js/runtime-main.74c61b87.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Player-trailer/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.bbfad9c7.chunk.js": "/Player-trailer/static/js/2.bbfad9c7.chunk.js",
+    "static/js/2.bbfad9c7.chunk.js.map": "/Player-trailer/static/js/2.bbfad9c7.chunk.js.map",
+    "static/js/3.e9803434.chunk.js": "/Player-trailer/static/js/3.e9803434.chunk.js",
+    "static/js/3.e9803434.chunk.js.map": "/Player-trailer/static/js/3.e9803434.chunk.js.map",
+    "index.html": "/Player-trailer/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Player-trailer/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.fc799f02.chunk.css.map": "/Player-trailer/static/css/main.fc799f02.chunk.css.map",
+    "static/js/2.bbfad9c7.chunk.js.LICENSE.txt": "/Player-trailer/static/js/2.bbfad9c7.chunk.js.LICENSE.txt",
+    "static/media/left.310de47d.svg": "/Player-trailer/static/media/left.310de47d.svg",
+    "static/media/right.c3ee4024.svg": "/Player-trailer/static/media/right.c3ee4024.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74c61b87.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.bbfad9c7.chunk.js",
+    "static/css/main.fc799f02.chunk.css",
+    "static/js/main.9c6ce1e1.chunk.js"
+  ]
+}
